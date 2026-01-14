@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso de Espanhol Inicial - Corazón Latino</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background-color: #fdf6f0;
+        }
+        h1, h2 {
+            color: #d62828; /* rojo Corazón Latino */
+        }
+        img, video {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        .highlight {
+            color: #f77f00;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Curso de Espanhol Inicial - A1 & A2</h1>
+    <h2>Início das aulas: 19 de Janeiro</h2>
+
+    <p>Olá! Meu nome é <span class="highlight">Raydel Antonio Treto</span> e sou o fundador da escola <strong>Corazón Latino</strong>. 
+    Convido você a aprender espanhol conosco através de uma <strong>metodologia dinâmica e personalizada</strong>, projetada para resultados reais.</p>
+
+    <h2>O que você vai receber:</h2>
+    <ul>
+        <li>Material didático completo incluso 📚</li>
+        <li>Aulas personalizadas conforme seu nível e perfil 👩‍🏫</li>
+        <li>Metodologia inovadora baseada em <strong>neurodidática</strong></li>
+        <li>Aprendizado rápido e divertido desde o primeiro dia 🎯</li>
+    </ul>
+
+    <h2>Benefícios:</h2>
+    <ul>
+        <li>Professores nativos especializados</li>
+        <li>Pequenos grupos ou aulas individuais</li>
+        <li>Flexibilidade de horários, presencial e online</li>
+        <li>Fortalecimento do seu perfil profissional e cultural</li>
+    </ul>
+
+    <h2>Veja como é uma aula personalizada:</h2>
+    <p>Este vídeo mostra uma aluna de nível B1 em uma aula individual, praticando espanhol de forma prática e interativa:</p>
+
+    <!-- Imagen de ejemplo -->
+    <img src="media/professores.jpg" alt="Professores Corazón Latino">
+
+    <!-- Video de ejemplo -->
+    <video width="600" controls>
+        <source src="media/video-introducao.mp4" type="video/mp4">
+        Seu navegador não suporta o vídeo.
+    </video>
+
+    <p><strong>Não perca esta oportunidade!</strong> Inscreva-se já e garanta sua vaga no Curso de Espanhol Inicial da <strong>Corazón Latino</strong>.</p>
+
+</body>
+</html>
