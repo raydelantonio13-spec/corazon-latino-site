@@ -1,0 +1,42 @@
+corazon-latino-site
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Gracias por tu compra</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Google Ads / Analytics (luego se pega aquí) -->
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f7f7f7;
+            text-align: center;
+            padding: 60px 20px;
+        }
+        .box {
+            background: #ffffff;
+            max-width: 500px;
+            margin: auto;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2e7d32;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>¡Gracias por tu compra! 🎉</h1>
+        <p>Tu inscripción fue realizada con éxito.</p>
+        <p>Pronto nos pondremos en contacto contigo.</p>
+    </div>
+</body>
+</html>
