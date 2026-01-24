@@ -1,10 +1,11 @@
-# corazon-latino-site
-Site oficial da Escola Corazón Latino. Curso de espanhol com professores nativos, aulas personalizadas, foco em pronúncia, conversação, cultura e comunicação real para iniciantes, adultos e empresas.
-Soy Raydel Antonio Treto, fundador de Corazón Latino, y te invito a aprender español con nuestra metodología dinámica y personalizada.gmail: raydelantonio13@gmail.com. 
-Beneficios clave:
-Profesores nativos y clases interactivas
-Aprendizaje adaptado a tu nivel y objetivos
-Material incluido y seguimiento continuo
-Grupos pequeños o clases individuales
-Flexibilidad horaria, presencial y online
-Aprende español de manera eficiente, práctica y divertida, y fortalece tu perfil profesional y cultural desde el primer día.
+corazon-latino-site
+Aprenda espanhol com professores nativos e aulas personalizadas.
+Foco em conversação, pronúncia e cultura real para iniciantes, adultos e empresas.
+Sou Raydel Antonio Treto, fundador da Corazón Latino. Nossa metodologia é dinâmica, prática e adaptada ao seu ritmo.
+📧 Contato: raydelantonio13@gmail.com
+Destaques:
+Professores nativos e aulas interativas
+Turmas pequenas ou individuais
+Material incluso e acompanhamento contínuo
+Flexibilidade presencial ou online
+Comece hoje e fortaleça seu perfil profissional e cultural!
